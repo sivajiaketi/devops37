@@ -28,3 +28,17 @@ sudo docker swarm leave
 docker swarm leave --force
 sudo docker swarm leave --force
 clear
+ls
+clear
+nano 1.ttxt
+clear
+nano 2.txt
+ls
+clear
+git init
+ls
+git status
+git add .
+git status
+git commit -m "commiting files 1.txt and 2.txt"
+git status
