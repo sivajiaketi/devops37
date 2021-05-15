@@ -42,3 +42,20 @@ git add .
 git status
 git commit -m "commiting files 1.txt and 2.txt"
 git status
+ls
+clear
+git status
+git remote add origin "https://github.com/sivajiaketi/devops37.git"
+git push origin master
+clear
+git pull origin master
+ls
+clear
+ls
+nano 5.txt
+git add .
+clear
+cd devops37
+cd test
+ls
+cd devops37
